@@ -1,0 +1,91 @@
+{
+    "tickets": [
+        {
+            "id": "ticket_bc29bcc0",
+            "schedule_id": "schedule_c9d451dc",
+            "user_id": "user_001",
+            "seats": [
+                "D2",
+                "D4",
+                "D3"
+            ],
+            "booking_time": "2025-05-01T13:08:02.848092",
+            "total_price": 270000,
+            "status": "confirmed"
+        },
+        {
+            "id": "ticket_4aabc67d",
+            "schedule_id": "schedule_c9d451dc",
+            "user_id": "user_002",
+            "seats": [
+                "E2",
+                "F3",
+                "E4"
+            ],
+            "booking_time": "2025-05-01T13:09:09.979402",
+            "total_price": 270000,
+            "status": "confirmed"
+        },
+        {
+            "id": "ticket_ef846614",
+            "schedule_id": "schedule_c9d451dc",
+            "user_id": "user_003",
+            "seats": [
+                "E3"
+            ],
+            "booking_time": "2025-05-01T13:10:00.232344",
+            "total_price": 90000,
+            "status": "confirmed"
+        },
+        {
+            "id": "ticket_90c94d76",
+            "schedule_id": "schedule_de94c9d2",
+            "user_id": "user_001",
+            "seats": [
+                "A4",
+                "A5"
+            ],
+            "booking_time": "2025-05-01T17:33:56.627393",
+            "total_price": 240000,
+            "status": "confirmed"
+        },
+        {
+            "id": "ticket_80098a40",
+            "schedule_id": "schedule_cae2b1be",
+            "user_id": "user_002",
+            "seats": [
+                "A4",
+                "A5"
+            ],
+            "booking_time": "2025-05-02T07:22:38.064203",
+            "total_price": 240000,
+            "status": "confirmed"
+        },
+        {
+            "id": "ticket_621e6ef8",
+            "schedule_id": "schedule_cae2b1be",
+            "user_id": "user_002",
+            "seats": [
+                "C4",
+                "C5"
+            ],
+            "booking_time": "2025-05-02T07:22:59.737786",
+            "total_price": 180000,
+            "status": "confirmed"
+        },
+        {
+            "id": "ticket_312378e4",
+            "schedule_id": "schedule_afcd7da3",
+            "user_id": "user_001",
+            "seats": [
+                "A5",
+                "A4",
+                "G4",
+                "G5"
+            ],
+            "booking_time": "2025-05-23T11:28:06.031912",
+            "total_price": 420000,
+            "status": "confirmed"
+        }
+    ]
+}

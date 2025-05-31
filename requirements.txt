@@ -1,0 +1,4 @@
+pyinstaller==6.13.0
+tkcalendar>=1.6.1
+pillow>=8.0.0
+requests>=2.25.0

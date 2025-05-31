@@ -1,0 +1,48 @@
+{
+    "schedules": [
+        {
+            "id": "schedule_de94c9d2",
+            "movie_id": "movie_10413433",
+            "theater_id": "room_c18ebd8e",
+            "start_time": "2025-05-01T18:00:00",
+            "end_time": "2025-05-01T20:00:00",
+            "price": {
+                "normal": 90000,
+                "vip": 120000
+            }
+        },
+        {
+            "id": "schedule_cae2b1be",
+            "movie_id": "movie_10413433",
+            "theater_id": "room_c18ebd8e",
+            "start_time": "2025-05-02T19:00:00",
+            "end_time": "2025-05-02T21:00:00",
+            "price": {
+                "normal": 90000,
+                "vip": 120000
+            }
+        },
+        {
+            "id": "schedule_afcd7da3",
+            "movie_id": "movie_986056",
+            "theater_id": "room_df13d9e6",
+            "start_time": "2025-05-23T11:30:00",
+            "end_time": "2025-05-23T13:37:00",
+            "price": {
+                "normal": 90000,
+                "vip": 120000
+            }
+        },
+        {
+            "id": "schedule_d26df140",
+            "movie_id": "movie_896536",
+            "theater_id": "room_00aaf505",
+            "start_time": "2025-05-31T17:00:00",
+            "end_time": "2025-05-31T18:35:00",
+            "price": {
+                "normal": 90000,
+                "vip": 120000
+            }
+        }
+    ]
+}

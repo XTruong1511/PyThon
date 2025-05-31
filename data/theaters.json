@@ -1,0 +1,34 @@
+{
+    "theaters": [
+        {
+            "id": "room_c18ebd8e",
+            "name": "A1",
+            "type": "Thường",
+            "capacity": 96,
+            "layout": {
+                "rows": 12,
+                "cols": 8
+            }
+        },
+        {
+            "id": "room_df13d9e6",
+            "name": "A2",
+            "type": "3D",
+            "capacity": 80,
+            "layout": {
+                "rows": 12,
+                "cols": 8
+            }
+        },
+        {
+            "id": "room_00aaf505",
+            "name": "A3",
+            "type": "IMAX",
+            "capacity": 80,
+            "layout": {
+                "rows": 10,
+                "cols": 8
+            }
+        }
+    ]
+}

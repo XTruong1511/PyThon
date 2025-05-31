@@ -1,0 +1,31 @@
+{
+    "users": [
+        {
+            "id": "user_001",
+            "username": "admin",
+            "password": "f89b123238304cf7883099fe0f29a968$d50547dbf0207498294708511ac07fb32d5b2e65774e5482818c8cf3dd089800",
+            "name": "Admin",
+            "role": "admin",
+            "email": "admin@cinema.com",
+            "phone": "0123456789"
+        },
+        {
+            "id": "user_002",
+            "username": "staff",
+            "password": "32c33dcf4a4942c98b81f717cda84458$c41d5692f9bb38c1eccfe681fce2c13537ae2357b68faee693d2bc332646dc73",
+            "name": "Staff User",
+            "role": "staff",
+            "email": "staff@cinema.com",
+            "phone": "0123456788"
+        },
+        {
+            "id": "user_003",
+            "username": "customer",
+            "password": "7e9447adc1694176bdcb2f608c93c41d$8b6f01031215f3083b613c368f647c1695eaac05fc315d5147f4b8d9d1f7d955",
+            "name": "Customer",
+            "role": "customer",
+            "email": "customer@example.com",
+            "phone": "0123456787"
+        }
+    ]
+}

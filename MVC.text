@@ -1,0 +1,44 @@
+cinema_management/
+│
+├── main.py                  # File chính để chạy ứng dụng
+│
+├── models/                  # Thư mục chứa các model (xử lý dữ liệu)
+│   ├── __init__.py
+│   ├── movie.py             # Lớp Movie
+│   ├── theater.py           # Lớp Theater (phòng chiếu)
+│   ├── schedule.py          # Lớp Schedule (lịch chiếu)
+│   ├── ticket.py            # Lớp Ticket (vé)
+│   ├── user.py              # Lớp User
+│   └── data_manager.py      # Lớp quản lý đọc/ghi JSON
+│
+├── views/                   # Thư mục chứa giao diện Tkinter
+│   ├── __init__.py
+│   ├── login_view.py        # Giao diện đăng nhập
+│   ├── main_view.py         # Giao diện chính
+│   ├── movie_view.py        # Giao diện quản lý phim
+│   ├── theater_view.py      # Giao diện quản lý phòng chiếu
+│   ├── schedule_view.py     # Giao diện quản lý lịch chiếu
+│   ├── booking_view.py      # Giao diện đặt vé
+│   └── user_view.py         #Giao diện người 
+│
+├── controllers/             # Thư mục chứa các controller
+│   ├── __init__.py
+│   ├── auth_controller.py   # Controller xử lý đăng nhập/phân quyền
+│   ├── movie_controller.py  # Controller xử lý logic phim
+│   ├── theater_controller.py # Controller xử lý phòng chiếu
+│   ├── schedule_controller.py # Controller xử lý lịch chiếu
+│   └── booking_controller.py # Controller xử lý đặt vé
+│
+├── utils/                   # Thư mục chứa các tiện ích
+│   ├── __init__.py
+│   ├── crawl_movies.py      # Module crawl dữ liệu phim
+│   ├── api_client.py        # Module gọi API phim
+│   ├── password_utils.py    # Module mã hóa mật khẩu
+│   └── config.py            # Cấu hình chung
+│
+└── data/                    # Thư mục lưu trữ dữ liệu JSON
+    ├── movies.json
+    ├── theaters.json
+    ├── schedules.json
+    ├── tickets.json
+    └── users.json

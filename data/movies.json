@@ -1,0 +1,193 @@
+{
+    "movies": [
+        {
+            "id": "movie_10413433",
+            "title": "Địa Đạo ",
+            "director": "Bùi Thạc Chuyên",
+            "duration": 120,
+            "genre": [
+                "Hành Động"
+            ],
+            "release_date": "30/04/2025",
+            "rating": 8.0,
+            "poster_url": "",
+            "trailer_url": "",
+            "description": ""
+        },
+        {
+            "id": "movie_575265",
+            "title": "Nhiệm Vụ: Bất Khả Thi - Nghiệp Báo Cuối Cùng",
+            "director": "Đang cập nhật",
+            "duration": 170,
+            "genre": [
+                "Phim Hành Động",
+                "Phim Phiêu Lưu",
+                "Phim Gây Cấn"
+            ],
+            "release_date": "2025-05-15",
+            "rating": 7.177,
+            "description": "Sau khi thoát khỏi vụ tai nạn tàu hỏa thảm khốc, Ethan nhận ra The Entity đang được giấu trên một chiếc tàu ngầm cũ của Nga, nhưng một kẻ thù trong quá khứ của anh tên là Gabriel cũng đang truy đuổi.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hPM9KSq7Az8wz1MhT6ricpQn9j1.jpg",
+            "trailer_url": ""
+        },
+        {
+            "id": "movie_950387",
+            "title": "Một bộ phim Minecraft",
+            "director": "Đang cập nhật",
+            "duration": 101,
+            "genre": [
+                "Phim Gia Đình",
+                "Phim Hài",
+                "Phim Phiêu Lưu",
+                "Phim Giả Tượng",
+                "Phim Hành Động"
+            ],
+            "release_date": "2025-03-31",
+            "rating": 6.512,
+            "description": "Chào mừng bạn đến với thế giới của Minecraft, nơi sự sáng tạo không chỉ giúp bạn chế tạo mà còn là yếu tố quan trọng để sống sót! Bốn kẻ lạc lõng - Garrett “The Garbage Man” Garrison (Momoa), Henry (Hansen), Natalie (Myers) và Dawn (Brooks) - bất ngờ gặp rắc rối khi họ bị kéo qua cánh cửa bí ẩn dẫn đến Overworld: một thế giới kỳ lạ được tạo bởi những khối lập phương và phát triển nhờ vào trí tưởng tượng. Để trở về nhà, họ cần phải làm chủ được thế giới này (và bảo vệ nó khỏi những thực thể tà ác như Piglins và Thây Ma) trong khi dấn thân vào chuyến phiêu lưu màu nhiệm với một thợ chế tạo chuyên nghiệp và khó lường - Steve (Black). Chuyến hành trình này sẽ thách thức sự can đảm của cả năm người, thúc đẩy họ tìm lại với những phẩm chất làm nên sự đặc biệt của riêng mình,… đồng thời là những kỹ năng cần thiết để trở lại với thế giới thật.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wRrGBv4uNofBVyShxfS0iugbcm8.jpg",
+            "trailer_url": ""
+        },
+        {
+            "id": "movie_552524",
+            "title": "Lilo & Stitch",
+            "director": "Đang cập nhật",
+            "duration": 108,
+            "genre": [
+                "Phim Gia Đình",
+                "Phim Hài",
+                "Phim Khoa Học Viễn Tưởng"
+            ],
+            "release_date": "2025-05-17",
+            "rating": 7.137,
+            "description": "",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aOfmWQHIdunw4Xnc4ZL7DUDDgNl.jpg",
+            "trailer_url": ""
+        },
+        {
+            "id": "movie_1098006",
+            "title": "Suối Nguồn Tươi Trẻ - Fountain of Youth",
+            "director": "Đang cập nhật",
+            "duration": 125,
+            "genre": [
+                "Phim Phiêu Lưu",
+                "Phim Giả Tượng",
+                "Phim Bí Ẩn"
+            ],
+            "release_date": "2025-05-19",
+            "rating": 7.0,
+            "description": "Một kẻ săn kho báu đại tài lập ra một đội để bước vào một chuyến phiêu lưu sinh tử. Nhưng để luôn đi trước một bước các mối đe dọa, anh cần một người còn thông minh hơn mình: cô em gái xa cách.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg",
+            "trailer_url": ""
+        },
+        {
+            "id": "movie_1233413",
+            "title": "Tội Đồ",
+            "director": "Đang cập nhật",
+            "duration": 138,
+            "genre": [
+                "Phim Kinh Dị",
+                "Phim Gây Cấn"
+            ],
+            "release_date": "2025-04-16",
+            "rating": 7.566,
+            "description": "Cố gắng bỏ lại cuộc sống đầy rắc rối của mình, hai anh em sinh đôi trở về quê hương để bắt đầu lại, chỉ để phát hiện ra rằng một cái ác thậm chí còn lớn hơn đang chờ đợi để chào đón họ trở lại.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aXFWi3ir9vHqAz0m3XIuD92vPsQ.jpg",
+            "trailer_url": ""
+        },
+        {
+            "id": "movie_1197306",
+            "title": "Mật Vụ Phụ Hồ",
+            "director": "Đang cập nhật",
+            "duration": 116,
+            "genre": [
+                "Phim Hành Động",
+                "Phim Hình Sự",
+                "Phim Gây Cấn"
+            ],
+            "release_date": "2025-03-26",
+            "rating": 6.647,
+            "description": "Levon Cade - cựu biệt kích tinh nhuệ thuộc lực lượng Thủy quân Lục chiến Hoàng gia Anh. Sau khi nghỉ hưu, anh sống cuộc đời yên bình là một công nhân xây dựng tại Chicago (Mỹ). Levon có mối quan hệ rất tốt với gia đình ông chủ Joe Garcia (Michael Peña). Một ngày nọ, cô con gái tuổi teen Jenny (Arianna Rivas) của Joe bị bắt cóc khiến chàng cựu quân nhân phải sử dụng lại các kỹ năng giết chóc của mình để giúp đỡ.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qmVVc6ZVw9PEwkr4G0Obmlg7woC.jpg",
+            "trailer_url": ""
+        },
+        {
+            "id": "movie_447273",
+            "title": "Nàng Bạch Tuyết",
+            "director": "Đang cập nhật",
+            "duration": 109,
+            "genre": [
+                "Phim Gia Đình",
+                "Phim Giả Tượng"
+            ],
+            "release_date": "2025-03-12",
+            "rating": 4.32,
+            "description": "Câu chuyện của Nàng Bạch Tuyết ban đầu cũng giống như cổ tích, khi nàng công chúa mới chào đời, mang niềm vui và sự ấm áp tới cả vương quốc xinh đẹp. Mẹ mất sớm, cha bao bọc nàng bằng tất cả tình yêu thương, dạy nàng phải sống không sợ hãi, công bằng, dũng cảm và chân thành. Bạch Tuyết càng lớn lên càng lay động lòng người, với vẻ đẹp thuần khiết như ánh nắng ban mai và một trái tim thiện lương, nhân hậu. Thế nhưng, những ngày tháng vui vẻ không kéo dài lâu khi cha cô cũng qua đời. Ngày hoàng hậu mới lên ngôi, bóng tối bao trùm cả vương quốc. Độc ác và đầy dã tâm, ả không có lòng khoan dung, sẵn sàng trừng phạt bất cứ ai dám làm trái lệnh. Sự ghen ghét, đố kỵ của mẹ kế đẩy Bạch Tuyết vào cảnh nguy hiểm. Nàng phải chạy trốn vào rừng sâu, nơi cuộc phiêu lưu của nàng bắt đầu với những người bạn tốt bụng mới.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/24vmIaNTaXPXKdveylQ2C3hcWaD.jpg",
+            "trailer_url": ""
+        },
+        {
+            "id": "movie_986056",
+            "title": "Biệt Đội Sấm Sét*",
+            "director": "Đang cập nhật",
+            "duration": 127,
+            "genre": [
+                "Phim Hành Động",
+                "Phim Khoa Học Viễn Tưởng",
+                "Phim Phiêu Lưu"
+            ],
+            "release_date": "2025-04-30",
+            "rating": 7.473,
+            "description": "Sau khi thấy mình bị mắc kẹt trong một cái bẫy chết người, bảy người bị bỏ rơi vỡ mộng phải bắt tay vào một nhiệm vụ nguy hiểm sẽ buộc họ phải đối mặt với những góc đen tối nhất trong quá khứ của họ.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8SHwKExQ9dkR8xEmtT3y2vrHZEY.jpg",
+            "trailer_url": ""
+        },
+        {
+            "id": "movie_896536",
+            "title": "Huyền Thoại Ochi",
+            "director": "Đang cập nhật",
+            "duration": 95,
+            "genre": [
+                "Phim Giả Tượng",
+                "Phim Phiêu Lưu",
+                "Phim Gia Đình"
+            ],
+            "release_date": "2025-04-18",
+            "rating": 6.067,
+            "description": "",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wVujUVvY4qvKARAslItQ4ARKqtz.jpg",
+            "trailer_url": ""
+        },
+        {
+            "id": "movie_574475",
+            "title": "Lưỡi hái tử thần: Huyết thống",
+            "director": "Đang cập nhật",
+            "duration": 110,
+            "genre": [
+                "Phim Kinh Dị",
+                "Phim Bí Ẩn"
+            ],
+            "release_date": "2025-05-09",
+            "rating": 7.148,
+            "description": "Thương hiệu kinh dị đình đám Hollywood Final Destination sẽ trở lại với phần phim mới, hứa hẹn khuấy đảo phòng vé mùa hè 2025. Final Destination: Bloodlines là phần thứ 6 trong series, và cho đến hiện tại, các thông tin về nội dung phần phim này vẫn đang được giữ kín. Bộ đôi Zach Lipovsky và Adam Stein được chọn từ hơn 200 ứng viên để ngồi ghế đạo diễn, trong khi Guy Busick – biên kịch của Ready or Not sẽ chấp bút cho bộ phim. Tony Todd – gương mặt quen thuộc của series cũng sẽ trở lại trong phần 6 với vai diễn William Bludworth.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
+            "trailer_url": ""
+        },
+        {
+            "id": "movie_1098006",
+            "title": "Suối Nguồn Tươi Trẻ - Fountain of Youth",
+            "director": "Đang cập nhật",
+            "duration": 125,
+            "genre": [
+                "Phim Phiêu Lưu",
+                "Phim Giả Tượng",
+                "Phim Bí Ẩn"
+            ],
+            "release_date": "2025-05-19",
+            "rating": 6.553,
+            "description": "Một kẻ săn kho báu đại tài lập ra một đội để bước vào một chuyến phiêu lưu sinh tử. Nhưng để luôn đi trước một bước các mối đe dọa, anh cần một người còn thông minh hơn mình: cô em gái xa cách.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hZN0MeyblUgKBhiktVGzjeu7aFO.jpg",
+            "trailer_url": ""
+        }
+    ]
+}
