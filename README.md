@@ -18,7 +18,7 @@ DoAn_Python/
 
 1. Clone repository:
 ```bash
-git clone https://github.com/ChungViTin/DoAn_Python.git
+git clone https://github.com/XTruong1511/Python.git
 ```
 
 2. Cài đặt các thư viện cần thiết:
